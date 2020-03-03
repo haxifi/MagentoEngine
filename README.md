@@ -1,7 +1,7 @@
 # MagentoEngine
 Class to use Object Manager of Magento 2
 
-##Class Method
+## Class Method
 *update_product*
 
 *return_row*
